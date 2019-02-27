@@ -5,6 +5,7 @@ Orange
 Green
 Yellow
 Red
+indigo
 
 These are the colors of the rainbow.
 Add to the unicorn branch
